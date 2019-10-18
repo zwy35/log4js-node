@@ -44,7 +44,7 @@
     "debug": "^4.1.1",
     "flatted": "^2.0.0",
     "rfdc": "^1.1.4",
-    "streamroller": "https://github.com/zwy35/streamroller.git#master"
+    "streamroller": "git+https://github.com/zwy35/streamroller.git#master"
   },
   "devDependencies": {
     "@log4js-node/sandboxed-module": "^2.2.1",
